@@ -4,3 +4,5 @@
 *.spr filter=lfs diff=lfs merge=lfs -text
 data/things/**/*.dat.enc filter=lfs diff=lfs merge=lfs -text
 data/things/**/*.spr.enc filter=lfs diff=lfs merge=lfs -text
+data/things/1098/*.dat.enc filter=lfs diff=lfs merge=lfs -text
+data/things/1098/*.spr.enc filter=lfs diff=lfs merge=lfs -text
