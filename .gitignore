@@ -1,0 +1,66 @@
+# ========================================
+# GitHub Repository for Encrypted Client Files
+# IMPORTANTE: Solo ignorar archivos sensibles
+# ========================================
+
+# Environment variables (NEVER COMMIT)
+.env
+.env.*
+!.env.example
+
+# Encryption keys (NEVER COMMIT)
+*.key
+*.pem
+keys/
+!keys/.gitkeep
+
+# Build artifacts
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp
+temp/
+tmp/
+
+# Large legacy files (not needed)
+data/things/1098c/
+
+# ========================================
+# ALLOW ALL CLIENT FILES
+# ========================================
+# Archivos públicos (NO encriptados)
+!*.dll
+!*.exe
+!*.so
+!*.dylib
+
+# Archivos encriptados
+!*.enc
+!*.enc.meta
+
+# Datos del juego
+!data/**
+!modules/**
+!mods/**
+
+# Manifest
+!manifest.json
+
+# README
+!README.md
