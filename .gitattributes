@@ -1,0 +1,4 @@
+*.spr.enc filter=lfs diff=lfs merge=lfs -text
+*.dat.enc filter=lfs diff=lfs merge=lfs -text
+*.dat filter=lfs diff=lfs merge=lfs -text
+*.spr filter=lfs diff=lfs merge=lfs -text
