@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated": "2025-11-04T20:37:20.173Z",
+  "generated": "2025-11-04T20:44:32.578Z",
   "hosting": "github-pages",
   "base_url": "https://dillpyridamole.github.io/unleash_dreams_enc_client",
   "files": {
@@ -18678,6 +18678,118 @@
       "crc32": "aaec0ebd",
       "sha256": "315ebfb52efde64469498a342daba0fad922cbe6ee6c2e018139fb57491427d7",
       "encrypted_sha256": "315ebfb52efde64469498a342daba0fad922cbe6ee6c2e018139fb57491427d7"
+    },
+    "otclient.exe": {
+      "size": 5355008,
+      "modified": "2025-09-29T21:43:59.546Z",
+      "download_url": "https://dillpyridamole.github.io/unleash_dreams_enc_client/otclient.exe",
+      "encrypted": false,
+      "crc32": "ba1f00cb",
+      "sha256": "c882c66006e14014744f07012f54226882a51ced1c3fdf765c58823e6e63d48f"
+    },
+    "OpenAL32.dll": {
+      "size": 1275904,
+      "modified": "2025-06-29T20:47:40.169Z",
+      "download_url": "https://dillpyridamole.github.io/unleash_dreams_enc_client/OpenAL32.dll",
+      "encrypted": false,
+      "crc32": "e55bdc62",
+      "sha256": "3a2b55cd86a89fb23a5194fcdd97a5442e2afb5a557a8caf19ff00e118ebed6d"
+    },
+    "abseil_dll.dll": {
+      "size": 1890816,
+      "modified": "2025-06-29T04:45:43.627Z",
+      "download_url": "https://dillpyridamole.github.io/unleash_dreams_enc_client/abseil_dll.dll",
+      "encrypted": false,
+      "crc32": "7dc98c4e",
+      "sha256": "c48a9af62258fd2bfa90145012fcf5e9645f5fbc19761defcd3774af21d2f096"
+    },
+    "glew32.dll": {
+      "size": 514048,
+      "modified": "2025-06-29T20:45:40.061Z",
+      "download_url": "https://dillpyridamole.github.io/unleash_dreams_enc_client/glew32.dll",
+      "encrypted": false,
+      "crc32": "84a9e64d",
+      "sha256": "27c2ab664ac3f57bbf1bd7060b18e4e2825d4d4815a9c05984a41c8cdc57fc54"
+    },
+    "libcrypto-3-x64.dll": {
+      "size": 4841472,
+      "modified": "2025-06-29T20:53:03.425Z",
+      "download_url": "https://dillpyridamole.github.io/unleash_dreams_enc_client/libcrypto-3-x64.dll",
+      "encrypted": false,
+      "crc32": "0b26bd17",
+      "sha256": "71eb0922cc48acba5d010a3bc8e892c4213a7db389c164bbc9260e63330ecf71"
+    },
+    "liblzma.dll": {
+      "size": 186880,
+      "modified": "2025-06-29T20:45:59.718Z",
+      "download_url": "https://dillpyridamole.github.io/unleash_dreams_enc_client/liblzma.dll",
+      "encrypted": false,
+      "crc32": "dd4fadec",
+      "sha256": "b70b4a0b8a837e71be58b820874dca9a188c7e91f5832b2bac7025f81ec4dfbd"
+    },
+    "libprotobuf.dll": {
+      "size": 13731840,
+      "modified": "2025-06-29T19:39:39.505Z",
+      "download_url": "https://dillpyridamole.github.io/unleash_dreams_enc_client/libprotobuf.dll",
+      "encrypted": false,
+      "crc32": "a6c71ed8",
+      "sha256": "43aa4358d06db549be993661c27962bb33e17bb03577202928cc2b20fed796eb"
+    },
+    "libssl-3-x64.dll": {
+      "size": 828416,
+      "modified": "2025-06-29T20:53:03.427Z",
+      "download_url": "https://dillpyridamole.github.io/unleash_dreams_enc_client/libssl-3-x64.dll",
+      "encrypted": false,
+      "crc32": "31ace295",
+      "sha256": "13b9ea5496f78a9f1d8081a66c049b19fb5908193606f245a3a403e9f89d126c"
+    },
+    "lua51.dll": {
+      "size": 538112,
+      "modified": "2025-06-29T20:46:41.837Z",
+      "download_url": "https://dillpyridamole.github.io/unleash_dreams_enc_client/lua51.dll",
+      "encrypted": false,
+      "crc32": "75c5b2f1",
+      "sha256": "e63eca5d5d3f4e5838c12633b003319296b4e565fe456c3cc1b2190a27f99125"
+    },
+    "ogg.dll": {
+      "size": 31232,
+      "modified": "2025-06-29T20:46:15.370Z",
+      "download_url": "https://dillpyridamole.github.io/unleash_dreams_enc_client/ogg.dll",
+      "encrypted": false,
+      "crc32": "fb17da00",
+      "sha256": "00e1f399f4714ce846ffad1274e03d9b936a5ce2deb14a9de7a7e3f8b6aa81af"
+    },
+    "physfs.dll": {
+      "size": 144896,
+      "modified": "2025-06-29T20:53:12.955Z",
+      "download_url": "https://dillpyridamole.github.io/unleash_dreams_enc_client/physfs.dll",
+      "encrypted": false,
+      "crc32": "b251db84",
+      "sha256": "9562a894ba4b010b18fa4da6a551e78538cd961dc1eda21d612427b19ecaf14f"
+    },
+    "vorbis.dll": {
+      "size": 721920,
+      "modified": "2025-06-29T20:46:23.330Z",
+      "download_url": "https://dillpyridamole.github.io/unleash_dreams_enc_client/vorbis.dll",
+      "encrypted": false,
+      "crc32": "c97849dc",
+      "sha256": "ae6773bd4bd659e0145a8cf3e54d6f3a2371166bcaf7abeacea440e848eb9b6b"
+    },
+    "vorbisfile.dll": {
+      "size": 38400,
+      "modified": "2025-06-29T20:46:23.499Z",
+      "download_url": "https://dillpyridamole.github.io/unleash_dreams_enc_client/vorbisfile.dll",
+      "encrypted": false,
+      "crc32": "9e8fa350",
+      "sha256": "ccaf6e40d0a3e6f7e7cf0b6278175b3d95ec79366822bc89e86c9ae157f292c4"
+    },
+    "zlib1.dll": {
+      "size": 90624,
+      "modified": "2025-06-29T20:39:09.565Z",
+      "download_url": "https://dillpyridamole.github.io/unleash_dreams_enc_client/zlib1.dll",
+      "encrypted": false,
+      "crc32": "ae9054df",
+      "sha256": "177f4764b62ee1b28a193b28618393b755f0538bad1d66c06013b18fb381d8c9"
     }
   }
 }
