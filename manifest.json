@@ -16350,7 +16350,7 @@
       "ciphertext_sha256": "2ee17d3ed5c632911099cac1541404c7f448477edf20d590ce2bbfff126d94f5",
       "plaintext_crc32": "a70fc299",
       "size": 656,
-      "download_url": "https://dillpyridamole.github.io/unleash_dreams_enc_client/modules/game_rewardwall/%23displayUIPickReward.html.enc"
+      "download_url": "https://dillpyridamole.github.io/unleash_dreams_enc_client/modules/game_rewardwall/_HASH_displayUIPickReward.html.enc"
     },
     "modules\\game_rewardwall\\game_rewardwall.css": {
       "algorithm": "chacha20-poly1305",
